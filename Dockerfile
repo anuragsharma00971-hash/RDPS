@@ -1,4 +1,4 @@
-FROM debian:bullseye
+FROM debian:bookwarm
 
 ENV DEBIAN_FRONTEND=noninteractive
 
